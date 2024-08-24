@@ -22,11 +22,11 @@ Contributions are welcome! If you have improvements or suggestions, please submi
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ContactDevilCodes@devilcodes.com
+If you have any feedback, please reach out to us at ContactDevilCodes@DevilCodes.Com.
 
 ## Support
 
